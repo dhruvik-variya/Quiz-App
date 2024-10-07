@@ -1,0 +1,58 @@
+{
+  "questions": [
+    {
+      "id": "2e61",
+      "que": "who is founder of c languagae ?",
+      "mcq1": "Dennis Ritchie",
+      "mcq2": "Guido van Rossum",
+      "mcq3": "James Gosling",
+      "mcq4": "Bjarne Stroustrup",
+      "ans": "A"
+    },
+    {
+      "id": "2b22",
+      "que": "What is the capital of Japan?",
+      "mcq1": "Tokyo",
+      "mcq2": "Beijing",
+      "mcq3": "Beijing",
+      "mcq4": "Beijing",
+      "ans": "A"
+    },
+    {
+      "id": "cdf3",
+      "que": "Which planet is known as the Red Planet?",
+      "mcq1": "Earth",
+      "mcq2": "Venus",
+      "mcq3": "Mars",
+      "mcq4": "Pablo",
+      "ans": "C"
+    },
+    {
+      "id": "5065",
+      "que": "who is founder of c languagae ?",
+      "mcq1": "Dennis Ritchie",
+      "mcq2": "Guido van Rossum",
+      "mcq3": "James Gosling",
+      "mcq4": "Bjarne Stroustrup",
+      "ans": "A"
+    },
+    {
+      "id": "2734",
+      "que": "Which planet is known as the Red Planet?",
+      "mcq1": "Earth",
+      "mcq2": "Venus",
+      "mcq3": "Mars",
+      "mcq4": "Beijing",
+      "ans": "c"
+    },
+    {
+      "id": "ca51",
+      "que": "Which planet is known as the Red Planet?",
+      "mcq1": "Earth",
+      "mcq2": "Venus",
+      "mcq3": "Mars",
+      "mcq4": "Beijing",
+      "ans": "c"
+    }
+  ]
+}

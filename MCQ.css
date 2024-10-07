@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+  }
+  
+  .navbar{
+    background-color: #1f4068;
+    width: 80%;  
+    display: flex;
+    gap: 30%;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 20px;
+    margin: 30px auto;  
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 20px; 
+}
+
+.navbar a {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 20px;
+  }
+
+  .mcq-option {
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+    border: none;
+    background-color: lightgray;
+    font-size: 16px;
+    width: 70%; /* Make sure the button widths are consistent */
+    text-align: left;
+}
+
+.mcqs {
+    margin-bottom: 20px;
+}
+
+#score {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#McqData {
+  display: flex;
+  flex-direction: column;
+  position:relative;
+  left: 10%;
+  align-items: center;
+  margin-top: 20px;
+  width: 80%;   
+  margin: 0 auto; 
+}
+
+.mcqs {
+  margin: 20px auto;  
+  width: 100%;  
+}
