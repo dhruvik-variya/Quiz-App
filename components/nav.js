@@ -1,8 +1,8 @@
 const Navbar = () => {
     return`
         <nav class="navbar">
-            <a href="/index.html">Home</a>
-            <a href="/MCQ.html">MCQ</a>  
+            <a href="./index.html">Home</a>
+            <a href="./MCQ.html">MCQ</a>  
         </nav>
     `
 }
